@@ -1,0 +1,71 @@
+﻿  MatricCalculator.cpp
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(1,4): error C2014: preprocessor command must start as first nonwhite space
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(39,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(40,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(71,17): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(82,17): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(95,17): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(114,17): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(129,9): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(130,9): error C2065: 'cin': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(133,13): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(154,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(155,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(156,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(157,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(158,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(159,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(160,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(161,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(164,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(165,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(166,5): error C2065: 'cin': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(195,9): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(195,21): error C2563: mismatch in formal parameter list
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(195,21): error C2568: '<<': unable to resolve function overload
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(195,21): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(197,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(202,13): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(204,9): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(204,21): error C2563: mismatch in formal parameter list
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(204,21): error C2568: '<<': unable to resolve function overload
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(204,21): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(234,9): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(234,21): error C2563: mismatch in formal parameter list
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(234,21): error C2568: '<<': unable to resolve function overload
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(234,21): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(236,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(241,13): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(243,9): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(243,21): error C2563: mismatch in formal parameter list
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(243,21): error C2568: '<<': unable to resolve function overload
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(243,21): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(334,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(360,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(366,13): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(368,9): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(386,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(386,57): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(386,69): error C2563: mismatch in formal parameter list
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(386,69): error C2568: '<<': unable to resolve function overload
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(386,69): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(394,13): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(396,9): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(396,21): error C2563: mismatch in formal parameter list
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(396,21): error C2568: '<<': unable to resolve function overload
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(396,21): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(421,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(422,5): error C2065: 'cin': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(428,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(433,13): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(435,9): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(435,21): error C2563: mismatch in formal parameter list
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(435,21): error C2568: '<<': unable to resolve function overload
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(435,21): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(475,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(476,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(502,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(516,5): error C2065: 'cout': undeclared identifier
+C:\Users\TUF\Downloads\UTeM\SEM 4\BITM2313 HUMAN-COMPUTER INTERACTION\Matric calculator\Matric calculator\MatricCalculator.cpp(517,5): error C2065: 'cout': undeclared identifier
